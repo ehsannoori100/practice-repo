@@ -1,1 +1,1 @@
-document.querySelector("h1").innerText = "Kabul";
+document.querySelector("h1").innerText = "Ghazni";
